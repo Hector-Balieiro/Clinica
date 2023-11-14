@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+.decoration{
+  border-bottom: 3px solid #00e5ff !important;
+}
